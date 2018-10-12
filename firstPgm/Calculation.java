@@ -20,3 +20,4 @@ public static void newOperations() {
 	System.out.println(message);
 }
 }
+
